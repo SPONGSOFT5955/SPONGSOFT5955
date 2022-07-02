@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SPONGSOFT5955
 - 👀 I’m interested in Windows OS comonents
 - 🌱 I’m currently learning OS networking elements
-- 💞️ I’m looking to collaborate on boot script for turning windows into a faster and secure platform.
+- 💞️ I’m looking to collaborate on boot script for speeding up boot process [reducing process loading time]
 - 📫 How to reach me ... spongsoft@gmail.com
 spimgspft@outlook.com
 
